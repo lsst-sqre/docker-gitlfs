@@ -1,4 +1,4 @@
 all: build
 
 build:
-	docker build -t lsstsqre/gitlfs:latest .
+	docker build -t docker.io/lsstsqre/gitlfs:latest .

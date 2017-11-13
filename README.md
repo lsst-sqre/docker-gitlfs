@@ -1,4 +1,4 @@
-lsstsqre/gitlfs
+docker.io/lsstsqre/gitlfs
 ===
 
 A simple docker image that provides modern versions of git and git-lfs.
